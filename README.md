@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
