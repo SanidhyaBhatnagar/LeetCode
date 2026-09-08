@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0006-zigzag-conversion) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
