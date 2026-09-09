@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
