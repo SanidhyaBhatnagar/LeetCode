@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/1234-replace-the-substring-for-balanced-string) |
 ## Math
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/SanidhyaBhatnagar/LeetCode/tree/master/1234-replace-the-substring-for-balanced-string) |
 <!---LeetCode Topics End-->
